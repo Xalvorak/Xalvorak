@@ -13,14 +13,14 @@ Je travaille principalement avec le langage C# dans des environnements Windows, 
 
 ## Compétences principales
 
-- **Langages** : C#, VB.NET, C, Assembleur x86/x64, Python
+- **Langages** : C#, VB.NET, C, C++, Assembleur x86/x64, Python
 - **Domaines** :
   - Développement de noyaux et d’OS personnalisés
   - Conception d’outils réseau et analyse de paquets
   - Parsing et traitement des formats binaires (PE, structures mémoire)
   - Développement d'interfaces graphiques Windows (WinForms avancé, SkiaSharp)
   - Conception d’IA embarquées et autonomes
-- **Environnements** : Windows, environnement bare-metal, .NET Framework, interop P/Invoke
+- **Environnements** : Windows, environnement bare-metal, .NET Framework, .NET8 et .NET9, interop P/Invoke
 
 ---
 
