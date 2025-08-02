@@ -13,7 +13,7 @@ Je travaille principalement avec le langage C# dans des environnements Windows, 
 
 ## Compétences principales
 
-- **Langages** : C#, VB.NET, C, C++, Assembleur x86/x64, Python et languages web (HTML, CSS, JS, PHP etc...)
+- **Langages** : C#, VB.NET, rust, C, C++, Assembleur x86/x64, Python et languages web (HTML, CSS, JS, PHP etc...)
 - **Domaines** :
   - Développement de noyaux et d’OS personnalisés
   - Conception d’outils réseau et analyse de paquets
