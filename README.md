@@ -1,55 +1,55 @@
-<h1 align="center">Xalvorak</h1>
-<p align="center"><strong>Développeur C# spécialisé en systèmes d'exploitation, outils bas-niveau et intelligence artificielle</strong></p>
+# Xalvorak
+**C# Developer specializing in operating systems, low-level tools, and artificial intelligence**
 
 ---
 
-## Profil
+## Profile
 
-Développeur expérimenté dans le domaine des systèmes informatiques et des architectures logicielles bas-niveau. Mon travail se concentre sur le développement d'outils techniques, de composants systèmes, de noyaux personnalisés et d'architectures logicielles spécialisées.
+Experienced developer in computer systems and low-level software architecture. My work focuses on building technical tools, system components, custom kernels, and specialized software architectures.
 
-Je travaille principalement avec le langage C# dans des environnements Windows, avec une expertise avancée en manipulation mémoire, interopérabilité native (Win32 API), structuration binaire et optimisation d'exécution. Je conçois également des moteurs d'intelligence artificielle conçus pour être exécutés localement, sans dépendance à des services externes.
-
----
-
-## Compétences principales
-
-- **Langages** : C#, VB.NET, rust, C, C++, Assembleur x86/x64, Python et languages web (HTML, CSS, JS, PHP etc...)
-- **Domaines** :
-  - Développement de noyaux et d’OS personnalisés
-  - Conception d’outils réseau et analyse de paquets
-  - Parsing et traitement des formats binaires (PE, structures mémoire)
-  - Développement d'interfaces graphiques Windows (WinForms avancé, SkiaSharp)
-  - Conception d’IA embarquées et autonomes
-- **Environnements** : Windows, environnement bare-metal, .NET Framework, .NET8 et .NET9, interop P/Invoke
+I primarily use C# within Windows environments, with advanced expertise in memory manipulation, native interoperability (Win32 API), binary structuring, and execution optimization. I also design AI engines intended to run locally, without relying on external services.
 
 ---
 
-## Projets représentatifs
+## Core Skills
 
-### [SnowFlake](https://github.com/Xalvorak/SnowFlake)
-Générateur d’identifiants distribués basé sur un horodatage haute précision. Développé en C# avec un focus sur la performance et la portabilité.
-
-### [PacketReader](https://github.com/Xalvorak/PacketReader) *(archivé)*
-Réimplémentation open-source d’un analyseur de paquets réseau. Écrit en VB.NET, maintenu pour rétrocompatibilité et archivage.
-
-### [ASCII-Image-Creator](https://github.com/Xalvorak/ASCII-Image-Creator)
-Outil Python pour la conversion d’images en représentations ASCII. Fonctionne en ligne de commande, sans dépendance graphique.
-
----
-
-## Publications et packages
-
-- Bibliothèques disponibles sur NuGet : analyse mémoire, visualisation de structures PE, gestion système bas-niveau.
-- Intégration d’outils personnalisés dans des applications WinForms professionnelles avec rendu optimisé (SkiaSharp, GDI+).
+- **Languages**: C#, VB.NET, Rust, C, C++, x86/x64 Assembly, Python, and web languages (HTML, CSS, JS, PHP, etc.)
+- **Areas of expertise**:
+  - Custom kernel and OS development
+  - Network tools and packet analysis
+  - Binary parsing and memory structure handling (e.g. PE format)
+  - Advanced Windows GUI development (WinForms, SkiaSharp)
+  - Embedded and autonomous AI design
+- **Environments**: Windows, bare-metal, .NET Framework, .NET 8 & 9, P/Invoke interoperability
 
 ---
 
-## Informations
+## Featured Projects
 
-- **Localisation** : France
-- **Fuseau horaire** : UTC+2
-- **NuGet** : [nuget.org/profiles/Xalvorak](https://www.nuget.org/profiles/Xalvorak)
+### [SnowFlake](https://github.com/Xalvorak/SnowFlake)  
+Distributed ID generator based on high-precision timestamps. Developed in C# with a strong focus on performance and portability.
+
+### [PacketReader](https://github.com/Xalvorak/PacketReader) *(archived)*  
+Open-source reimplementation of a network packet analyzer. Written in VB.NET, maintained for backward compatibility and archival purposes.
+
+### [ASCII-Image-Creator](https://github.com/Xalvorak/ASCII-Image-Creator)  
+Python command-line tool for converting images to ASCII representations. Works without any graphical dependencies.
 
 ---
 
-<p align="center"><i>Rien n’est implicite dans un système bien conçu.</i></p>
+## Publications & Packages
+
+- Libraries available on NuGet: memory analysis, PE structure visualization, low-level system management.
+- Integration of custom tools into professional WinForms applications with optimized rendering (SkiaSharp, GDI+).
+
+---
+
+## Details
+
+- **Location**: France  
+- **Time zone**: UTC+2  
+- **NuGet**: [nuget.org/profiles/Xalvorak](https://www.nuget.org/profiles/Xalvorak)
+
+---
+
+<p align="center"><i>Nothing is implicit in a well-designed system.</i></p>
